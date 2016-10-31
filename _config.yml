@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jitingsun/git
+  repo: https://github.com/jitingsun/jitingsun.github.io.git
   branch: master
   message: push
